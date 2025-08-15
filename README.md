@@ -1,5 +1,5 @@
 # OIBSIP_WebDevelopment_4
-## Flask Authentication App
+## Flask Login-Authentication App
 
 This is a simple Flask web application that demonstrates user authentication, including registration, login, and a protected dashboard page. It uses `Flask-SQLAlchemy` for database management and `Werkzeug` for secure password hashing.
 
@@ -11,6 +11,10 @@ This is a simple Flask web application that demonstrates user authentication, in
 - [Prerequisites](#prerequisites)
 - [File Structure](#file-structure)
 - [Live Demo](#live-demo)
+
+
+<img width="1416" height="567" alt="image" src="https://github.com/user-attachments/assets/bb8251ea-92ab-47c1-94de-7160cb0bc4ef" />
+
 
 ## Features
 
