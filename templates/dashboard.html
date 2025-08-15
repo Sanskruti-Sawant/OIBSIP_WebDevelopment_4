@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {% extends 'base.html' %}
+
+{% block title %}Register{% endblock %}
+
+{% block content %}
+    <head>
+        <title>Dashboard</title>
+    </head>
+    <body>
+        <h1>Welcome, {{ session.username }}!</h1>
+        <p>This is your dashboard</p>
+        <p><a href="/logout">Logout</a></p>
+    </body>
+    {% endblock %}
+</html>
